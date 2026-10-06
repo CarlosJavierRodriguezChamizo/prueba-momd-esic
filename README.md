@@ -20,6 +20,14 @@ python3 -m http.server 8000
 # luego visita http://localhost:8000
 ```
 
+## Estilo
+
+Estética vintage de floristería clásica: papel envejecido, burdeos, verde
+salvia y dorado, con filetes de doble regla y tipografía serif
+(Playfair Display para títulos y Lora para texto, servidas desde Google
+Fonts). Si no hay conexión, cae en la pila serif del sistema
+(Georgia / Times New Roman).
+
 ## Qué incluye
 
 - Catálogo generado desde un array en `js/app.js` (editable para añadir productos).
